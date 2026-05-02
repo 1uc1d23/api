@@ -2,11 +2,17 @@
   "events": [
     {
       "id": 1,
-      "title": "Pakistan Super League",
-      "logo": "https://mena-img-cdn-lb.aws.playco.com/prd-peg-data/default/images/logos/live/test2/collection-carousel/53de51d2e703ff5a91b4d8aa303502bc.png",
-      "background": "https://mena-img-cdn-lb.aws.playco.com/prd-peg-data/default/images/logos/live/test2/collection-carousel/50842cbf5d1f47513c07583c23809924.png",
+      "title": "Pakistan Super League: The Final",
+      "logo": "https://mena-img-cdn-lb.aws.playco.com/criclife/08042026PSL2026HKVSPZ15THMATCHHLY2026M/08042026PSL2026HKVSPZ15THMATCHHLY2026M-title-logo-en.png",
+      "background": "https://mena-img-cdn-lb.aws.playco.com/prd-peg-data/default/images/logos/live/test2/collection-carousel/ad4ad6bfd3d1085af2d2ad74887f8ee8.png",
       "link": "https://ramtv.xo.je/pages/event",
-      "description": "PSL 2026 is here! Sixes, speed, and stadium energy."
+      "description": "This is it — the PSL 11 Final: Zalmi vs Kingsmen. Two teams, one trophy, and everything on the line. Who will rise when it matters most and be crowned champions?"
+    }
+  ],
+  "event": [
+    {
+      "title": "Pakistan Super League: The Final",
+      "source": "https://cdn01.medialive.one:2096/PSLPROMO/index.m3u8"
     }
   ]
 }
