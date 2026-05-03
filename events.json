@@ -12,7 +12,8 @@
   "event": [
     {
       "title": "Pakistan Super League: The Final",
-      "source": "https://cdn01.medialive.one:2096/PSLPROMO/index.m3u8"
+      "source": "https://tencent-live.myco.io/v1/019d778aa31615e8f4121e4aae90f8/019d778b010c15e8f0601f740a593c/main.m3u8",
+      "fallback": "https://cdn01.medialive.one:2096/PSLPROMO/index.m3u8"
     }
   ] 
 }
