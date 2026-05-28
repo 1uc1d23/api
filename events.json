@@ -15,5 +15,19 @@
       "source": "https://cdn01.medialive.one:2096/PSLPROMO/index.m3u8",
       "fallback": "https://cdn01.medialive.one:2096/PSLPROMO/index.m3u8"
     }
-  ] 
+  ],
+  "channels": [
+    {
+      "id": 1,
+      "title": "Cricbuzz 1",
+      "thumbnail": "https://file.garden/ahgJnNrqozTNtHu_/cricbuzz1.png",
+      "link": "http://ramtv.xo.je/pages/cricbuzz1"
+    },
+    {
+      "id": 2,
+      "title": "Cricbuzz 2",
+      "thumbnail": "https://file.garden/ahgJnNrqozTNtHu_/cricbuzz2.png",
+      "link": "http://ramtv.xo.je/pages/cricbuzz2"
+    },
+  ]
 }
