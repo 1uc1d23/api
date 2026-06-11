@@ -19,17 +19,24 @@
   "channels": [
     {
       "id": 1,
-      "title": "Cricbuzz 1",
-      "category": "Cricket",
-      "thumbnail": "https://file.garden/ahgJnNrqozTNtHu_/cricbuzz1.png",
-      "link": "http://ramtv.xo.je/pages/cricbuzz1"
+      "title": "Fifa World Cup 2026",
+      "category": "HD Live",
+      "thumbnail": "https://i.ytimg.com/vi/fNb-xwO6jQc/maxresdefault.jpg",
+      "link": "https://ramtv.xo.je/event/1/"
     },
     {
       "id": 2,
+      "title": "Cricbuzz 1",
+      "category": "HD Live",
+      "thumbnail": "https://file.garden/ahgJnNrqozTNtHu_/cricbuzz1.png",
+      "link": "https://ramtv.xo.je/pages/cricbuzz1"
+    },
+    {
+      "id": 3,
       "title": "Cricbuzz 2",
-      "category": "Cricket",
+      "category": "HD Live",
       "thumbnail": "https://file.garden/ahgJnNrqozTNtHu_/cricbuzz2.png",
-      "link": "http://ramtv.xo.je/pages/cricbuzz2"
+      "link": "https://ramtv.xo.je/pages/cricbuzz2"
     }
   ]
 }
